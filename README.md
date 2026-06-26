@@ -61,7 +61,7 @@
 ## Installation
 
 ```bash
-git clone 
+git clone https://github.com/AyushRajak07/Law-GPT.git
 cd law-gpt
 
 python -m venv venv
